@@ -1,0 +1,47 @@
+######## Sidebar ########
+logo:
+  avatar: '[{config.avatar}](/about/)'
+  title: '[{config.title}](/)'
+  subtitle: '装出来的笑，笑不到最后'
+
+menubar:
+  columns: 5
+  items:
+    - id: post
+      theme: '#FF8C00'
+      icon: solar:notebook-bookmark-bold-duotone
+      title: 橙子树
+      url: /
+    - id: explore
+      theme: '#FFA500'
+      icon: solar:planet-bold-duotone
+      title: 橙子园
+      url: /friends/
+    - id: tag
+      theme: '#FF6347'
+      icon: solar:hashtag-square-bold
+      title: 橙子味
+      url: /blog/tags/
+    - id: archive
+      theme: '#FFD700'
+      icon: solar:documents-bold-duotone
+      title: 橙子酱
+      url: /blog/archives/
+    - id: about
+      theme: '#FF4500'
+      icon: solar:chat-square-like-bold-duotone
+      title: 橙子岛
+      url: /about/
+
+######## Footer ########
+footer:
+  social:
+    github:
+      icon: '<img src="https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.12/social/08a41b181ce68.svg"/>'
+      url: https://github.com/Wolf66660724
+  content: |
+    <div style="text-align: center; padding: 20px 0;">
+      <p style="margin: 5px 0; color: #888;">🍊 一颗有态度的橙子</p>
+      <p style="margin: 5px 0; color: #888;">「 生活不止眼前的代码，还有诗和远方 」</p>
+      <p style="margin: 5px 0; color: #888;">© 2024 橙子的小窝 · Powered by <a href="https://hexo.io" target="_blank">Hexo</a> & <a href="https://github.com/xaoxuu/hexo-theme-stellar" target="_blank">Stellar</a></p>
+    </div>

@@ -1,38 +1,48 @@
 ---
-title: Hello World
+title: 橙子的小窝，正式开张
+date: 2024-01-01
+tags:
+  - 随笔
+  - 生活
+categories:
+  - 随笔
+cover: /images/avatar.jpg
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+> 「 每一次出发，都是为了更好的归来 」
 
-### Create a new post
+## 🍊 开张大吉
 
-``` bash
-$ hexo new "My New Post"
+今天，橙子的小窝正式上线了。
+
+这是一个记录技术、生活与思考的地方。没有华丽的辞藻，只有真实的记录。
+
+<!-- more -->
+
+## 为什么叫"橙子"
+
+橙子，是我喜欢的水果，也是我对生活的理解：
+
+- **温暖** — 像阳光一样，给人带来温暖
+- **活力** — 充满能量，永远向前
+- **简单** — 不需要复杂的包装，本身就是最好的味道
+
+## 这个博客会写什么
+
+```
+技术分享 → 前端开发、Hexo、各种折腾
+生活随笔 → 日常感悟、旅行记录
+学习笔记 → 新知识、新技能
 ```
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+## 写在最后
 
-### Run server
+> 「 生活不止眼前的代码，还有诗和远方 」
 
-``` bash
-$ hexo server
-```
+希望这个小窝能成为我成长的见证，也能给你带来一些启发。
 
-More info: [Server](https://hexo.io/docs/server.html)
+欢迎常来坐坐 🍊
 
-### Generate static files
+---
 
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+*本文采用 [署名-非商业性使用-相同方式共享 4.0 国际](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议*
