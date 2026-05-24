@@ -21,12 +21,12 @@ menubar:
       theme: '#FF6347'
       icon: solar:hashtag-square-bold
       title: 橙子味
-      url: /blog/tags/
+      url: /tags/
     - id: archive
       theme: '#FFD700'
       icon: solar:documents-bold-duotone
       title: 橙子酱
-      url: /blog/archives/
+      url: /archives/
     - id: about
       theme: '#FF4500'
       icon: solar:chat-square-like-bold-duotone
