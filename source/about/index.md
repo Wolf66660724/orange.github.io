@@ -5,7 +5,7 @@ type: about
 ---
 
 <div style="text-align: center; padding: 30px 0;">
-  <img src="/images/avatar.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 4px solid #FF8C00;">
+  <img src="https://Wolf66660724.github.io/orange.github.io/images/avatar.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 4px solid #FF8C00;">
 </div>
 
 ## 👋 你好

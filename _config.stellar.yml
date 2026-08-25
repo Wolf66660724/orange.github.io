@@ -1,7 +1,7 @@
 ######## Sidebar ########
 logo:
   avatar: '[{config.avatar}](/about/)'
-  title: '[{config.title}](/)'
+  title: '[{config.title}](/orange.github.io/)'
   subtitle: '装出来的笑，笑不到最后'
 
 menubar:

@@ -6,7 +6,7 @@ tags:
   - 生活
 categories:
   - 随笔
-cover: /images/avatar.jpg
+cover: https://Wolf66660724.github.io/orange.github.io/images/avatar.jpg
 ---
 
 > 「 每一次出发，都是为了更好的归来 」
